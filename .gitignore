@@ -1,0 +1,20 @@
+# Assignment checklist (internal use only)
+ASSIGNMENT_CHECKLIST.md
+
+# Compiled class files
+*.class
+
+# Generated files
+tasks.txt
+theme-override.css
+settings.properties
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
